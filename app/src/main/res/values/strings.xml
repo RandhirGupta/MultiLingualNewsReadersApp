@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">NewsReaderApp</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="action_share">Share</string>
+    <string name="profile_name">Randhir</string>
+    <string name="profile_address">Tarento</string>
+    <string name="profile_email">randhirgupta92@gmail.com</string>
+
+    <string-array name="Activity">
+        <item>Live Mint</item>
+        <item>Hindu</item>
+
+    </string-array>
+
+    <string name="drawer_open">Open navigation drawer</string>
+    <string name="drawer_close">Close navigation drawer</string>
+    <string name="title_activity_web_page">WebPageActivity</string>
+
+</resources>

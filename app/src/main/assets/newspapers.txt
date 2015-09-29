@@ -1,0 +1,101 @@
+[
+    {
+        "name":"Live mint",
+        "titles": [
+            {
+                "tab_title": "Top Stories",
+                "url": "http://www.livemint.com/rss/homepage"
+
+            }
+            ,
+            {
+                    "tab_title": "Companies",
+                    "url": "http://www.livemint.com/rss/companies"
+
+            }
+            ,
+            {
+                "tab_title": "Consumer",
+                "url": "http://www.livemint.com/rss/consumer"
+
+            }
+            ,
+            {
+                "tab_title": "Opinion",
+                "url": "http://www.livemint.com/rss/opinion"
+            }
+            ,
+            {
+                "tab_title": "Money",
+                "url": "http://www.livemint.com/rss/money"
+            }
+            ,
+            {
+                "tab_title": "Industry",
+                "url": "http://www.livemint.com/rss/industry"
+            }
+            ,
+            {
+                "tab_title": "Economy Politics",
+                "url": "http://www.livemint.com/rss/economy_politics"
+            }
+            ,
+            {
+                "tab_title": "Lounge",
+                "url": "http://www.livemint.com/rss/lounge"
+            }
+        ]
+    },
+    {
+            "name":"Hindu",
+            "titles": [
+                {
+                    "tab_title": "राष्ट्रीय",
+                    "url": "http://rss.jagran.com/rss/news/national.xml"
+
+                }
+                ,
+                {
+                        "tab_title": "दुनिया",
+                        "url": "http://rss.jagran.com/rss/news/world.xml"
+
+                }
+                ,
+                {
+                    "tab_title": "बिजनेस",
+                    "url": "http://rss.jagran.com/rss/news/business.xml"
+
+                }
+                ,
+                {
+                    "tab_title": "खेल",
+                    "url": "http://rss.jagran.com/rss/news/sports.xml"
+                }
+                ,
+                {
+                        "tab_title": "बॉलीवुड",
+                        "url": "http://rss.jagran.com/rss/entertainment/bollywood.xml"
+
+                }
+                ,
+                {
+                        "tab_title": "शिक्षा",
+                        "url": "http://rss.jagran.com/rss/josh/shiksha.xml"
+
+                }
+                ,
+                {
+                        "tab_title": "विज्ञान",
+                        "url": "http://rss.jagran.com/rss/josh/vigyan.xml"
+
+                }
+                ,
+                {
+                        "tab_title": "कैरियर",
+                        "url": "http://rss.jagran.com/rss/josh/career.xml"
+
+                }
+
+            ]
+        }
+]
